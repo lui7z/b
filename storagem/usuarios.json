@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "teste",
+        "email": "teste@gmail.com",
+        "senha": "$2y$10$uvuJoE\/SoQ5yHqg47ujaKeDRY.kTloUb4MDq0\/VoxvXDw8IT1yOq.",
+        "idioma": "pt",
+        "tema": "Escuro"
+    },
+    {
+        "nome": "teste2",
+        "email": "teste2@gmail.com",
+        "senha": "$2y$10$MYXFhTf7gx2DxuZUN3nvRubSX3M10C6Xo7kRsd0aobTsZxudyznWq",
+        "idioma": "pt",
+        "tema": "Claro"
+    }
+]
